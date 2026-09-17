@@ -1,1 +1,1 @@
-# codex_workspace
+# codex-6dof-model
